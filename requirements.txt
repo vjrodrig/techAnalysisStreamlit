@@ -1,0 +1,7 @@
+yfinance
+streamlit
+datetime 
+talib 
+ta
+pandas
+requests
