@@ -1,7 +1,7 @@
 yfinance
 streamlit
 datetime 
-talib 
+ta-lib 
 ta
 pandas
 requests
